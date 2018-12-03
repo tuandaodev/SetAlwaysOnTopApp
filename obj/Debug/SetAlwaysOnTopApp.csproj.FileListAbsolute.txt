@@ -1,0 +1,10 @@
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\obj\Debug\SetAlwaysOnTopApp.Properties.Resources.resources
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\obj\Debug\SetAlwaysOnTopApp.csproj.GenerateResource.Cache
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\obj\Debug\SetAlwaysOnTopApp.Form1.resources
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\obj\Debug\SetAlwaysOnTopApp.csprojResolveAssemblyReference.cache
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\obj\Debug\SetAlwaysOnTopApp.About.resources
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\bin\Debug\Always On Top - Quick Order.exe.config
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\bin\Debug\Always On Top - Quick Order.exe
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\bin\Debug\Always On Top - Quick Order.pdb
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\obj\Debug\Always On Top - Quick Order.exe
+D:\Source\SetAlwaysOnTopApp\SetAlwaysOnTopApp\obj\Debug\Always On Top - Quick Order.pdb
